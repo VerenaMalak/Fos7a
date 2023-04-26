@@ -1,4 +1,4 @@
- <!-- Footer Start -->
+<!-- Footer Start -->
  <footer class="footer bg-footer" style="background: url('images/Fosحa logo.jpg') center center" data-jarallax='{"speed": 0.5}'>
             <div class="bg-overlay bg-gradient-overlay-dark"></div>
             <div class="container">
