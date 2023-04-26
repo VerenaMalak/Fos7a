@@ -1,0 +1,26 @@
+.video {
+  width: 1000px;
+  height: 1700px;
+}
+
+.favorite-btn {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 10;
+  background-color: white;
+  display: grid;
+  place-items: center;
+  border: 1px solid #FFD700;
+  border-radius: 4px;
+  padding: 8px;
+}
+.favorite-btn svg {
+  fill: #FFD700;
+}
+.favorite-btn:hover {
+  background-color: #FFD700;
+}
+.favorite-btn:hover svg {
+  fill: white;
+}/*# sourceMappingURL=custom.css.map */
