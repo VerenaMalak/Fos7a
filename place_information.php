@@ -108,7 +108,7 @@ if (isset($_POST['place_information'])){
 
                                     <div class="col-md-6">
                                         <div class="mb-3">
-                                        <br>
+                                        <br><br>
                                              <!-- Button trigger modal -->
                                          <button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                            For putting more images click:
